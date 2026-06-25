@@ -17,3 +17,6 @@ One side	D2
 Other side	GND
 
 📚 Required Libraries: Links to Adafruit_SSD1306 and Adafruit_GFX.
+
+https://github.com/user-attachments/assets/dc65a8bd-e270-403e-b5c3-420bcd72755b
+
