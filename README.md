@@ -1,5 +1,4 @@
-# dino-game
-A Chrome-inspired dino runner game built using an Arduino Uno and an SSD1306 OLED display
+🦖 Chrome-inspired Dino Game
 
 🔌 Hardware Components: Arduino Uno, 0.96" SSD1306 OLED Screen, push button, and breadboard
 
