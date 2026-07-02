@@ -1,15 +1,37 @@
-🦖 Chrome-inspired Dino Game
+# 🦖 Chrome-inspired Dino Game
 
-🔌 Hardware Components: Arduino Uno, 0.96" SSD1306 OLED Screen, push button, passive buzzer and breadboard
+## 🔌 Hardware Components: 
+Arduino Uno, 0.96" SSD1306 OLED Screen, Push Button, Passive Buzzer, M-M Jumper Wires and breadboard
 
-📚 Required Libraries: Adafruit_SSD1306 and Adafruit_GFX
+## 📚 Required Libraries: 
+Adafruit_SSD1306 and Adafruit_GFX
 
-⚙️ Connections: <img width="552" height="665" alt="dino_connections" src="https://github.com/user-attachments/assets/bd3e2470-631c-4e7c-be97-4ac7ce8c364f" />
+## ⚙️ Connections:
 
-🎥 Demo
+### OLED Display (SSD1306 I²C)
+| OLED Pin | Arduino Uno Pin |
+|----------|-----------------|
+| VCC      | 5V              |
+| GND      | GND             |
+| SDA      | A4              |
+| SCL      | A5              |
+
+### Push Button
+| Push Button Pin | Arduino Uno Pin |
+|-----------------|-----------------|
+| Terminal 1      | D2              |
+| Terminal 2      | GND             |
+
+### Buzzer
+| Buzzer Pin | Arduino Uno Pin |
+|------------|-----------------|
+| Positive (+) | D8            |
+| Negative (-) | GND           |
+
+## 🎥 Demo
 https://github.com/user-attachments/assets/dc65a8bd-e270-403e-b5c3-420bcd72755b
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 Multiple obstacle types
 Difficulty scaling
 Sound effects using a buzzer
