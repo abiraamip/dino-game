@@ -1,12 +1,12 @@
 # 🦖 Chrome-inspired Dino Game
 
-## 🔌 Hardware Components: 
-Arduino Uno, 0.96" SSD1306 OLED Screen, Push Button, Passive Buzzer, M-M Jumper Wires and breadboard
+## 🔌 Hardware Components
+Arduino Uno, 0.96" SSD1306 OLED Screen, Push Button, Passive Buzzer, Breadboard
 
-## 📚 Required Libraries: 
+## 📚 Required Libraries
 Adafruit_SSD1306 and Adafruit_GFX
 
-## ⚙️ Connections:
+## ⚙️ Connections
 
 ### OLED Display (SSD1306 I²C)
 | OLED Pin | Arduino Uno Pin |
